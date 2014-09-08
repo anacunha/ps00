@@ -1,0 +1,25 @@
+Date  Who       Start Stop  Interruptions Question TimeOnTask    Comments
+9/01  AM        13:00  13:40               Setup     40            Computer setup, Signing up for accounts
+9/07  AM        21:56  22:01                1         5            Solving Ex 1
+9/07  AM        22:09  22:13                2         4            Solving Ex 2
+9/07  AM        22:33  22:37                3         4            Solving and testing Ex 3
+9/07  AM        22:38  22:43                4         5            Solving and testing Ex 4
+9/07  AM        22:40  22:50                5        10            Solving and testing Ex 5
+9/07  AM        23:13  23:20                6         7            Solving and testing Ex 6
+9/07  AM        23:30  23:34                7         4            Solving and testing Ex 7
+9/07  AM        23:37  23:45                8         8            Solving and testing Ex 8
+9/07  AM        23:48  23:59                9        11            Solving and testing Ex 9
+9/08  AM        00:00  00:11               10        11            Solving and testing Ex 10
+============committing to git: 3/23 15:15 ===================
+
+Total Time On Task Setup (minutes)                40
+Total Time On Task Q1 (minutes)                    5 
+Total Time On Task Q2 (minutes)                    4
+Total Time On Task Q3 (minutes)                    4
+Total Time On Task Q4 (minutes)                    5
+Total Time On Task Q5 (minutes)                   10
+Total Time On Task Q6 (minutes)                    7
+Total Time On Task Q7 (minutes)                    4
+Total Time On Task Q8 (minutes)                    8
+Total Time On Task Q9 (minutes)                   11
+Total Time On Task Q10 (minutes)                  11
