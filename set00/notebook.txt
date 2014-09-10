@@ -10,7 +10,7 @@ Date  Who       Start Stop  Interruptions Question TimeOnTask    Comments
 9/07  AM        23:37  23:45                8         8            Solving and testing Ex 8
 9/07  AM        23:48  23:59                9        11            Solving and testing Ex 9
 9/08  AM        00:00  00:11               10        11            Solving and testing Ex 10
-============committing to git: 3/23 15:15 ===================
+============committing to git: 9/08 00:30 ===================
 
 Total Time On Task Setup (minutes)                40
 Total Time On Task Q1 (minutes)                    5 
